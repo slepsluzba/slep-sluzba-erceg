@@ -1716,7 +1716,7 @@ section{padding: 7.5rem 0;}
     background:url("../images/slep-sluzba-erceg-header.jpg");
     background-size: cover;
     background-position: top center;
-    height: 100vh;
+    height: 140vh;
 }
 .page-title .auto-container{
     position:relative;
@@ -2151,7 +2151,6 @@ section{padding: 7.5rem 0;}
     .center-brand {
         padding: 0;
         height: 70px;
-        background-color: #000000;
     }
     .row-padding {
         padding-top: 50px;
