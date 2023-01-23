@@ -1242,6 +1242,12 @@ section{padding: 7.5rem 0;}
     background-size: cover;
 }
 
+.main-heading h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 48px;
+    font-weight: bold;
+}
+
 .main-heading h2 {
     font-family: 'Montserrat', sans-serif;
     font-size: 48px;
@@ -1722,6 +1728,15 @@ section{padding: 7.5rem 0;}
     position:relative;
 }
 .page-title h2{
+    position:relative;
+    color:#ffffff;
+    font-weight:600;
+    line-height:1.2em;
+    margin-bottom: 10px;
+    font-size:3.5rem;
+    text-transform:capitalize;
+}
+.page-title h1{
     position:relative;
     color:#ffffff;
     font-weight:600;
